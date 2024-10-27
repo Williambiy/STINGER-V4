@@ -33,7 +33,9 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
     <a href='https://t.me/examsolutionteam' target="_blank"><img alt='PURCHASE' src='https://img.shields.io/badge/-PURCHASE_FILE-blue?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 
 
-## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
+## **NOTE: USE PRIVATE PANEL OR CONSOLE DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
+
+# **NOTE: TO ACTIVATE BOT MENU TYPE [.stinger]**
 
 ### 2. DEPLOY ON PANEL
 
@@ -43,8 +45,8 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
     <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=discord&logoColor=white'/></a>
 
 ## WATCH PANEL TUTORIAL VIDEO.
-* [![YOUTUBE](https://img.shields.io/badge/VIDEO_UNAVAILABLE-red?style=for-the-badge&logo=youtube&logoColor=white)](LOADING....)
-*
+ [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=black)](https://youtu.be/34WCTn5hA5E)
+
 
 ### DO YOU WANT A FAST PANEL AND WORRY LESS ABOUT DAILY COINS?
 
@@ -63,7 +65,7 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
 
 `Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
 
-## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
+## STINGER-V4 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
